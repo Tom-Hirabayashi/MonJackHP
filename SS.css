@@ -1,0 +1,22 @@
+ 
+a.special:link{
+  
+  text-decoration : none;
+  color : white;
+}
+a.special:visited{
+  
+  text-decoration : none;
+  color : white;
+}
+A.special:hover{
+  
+  text-decoration : blink;
+  color : white;
+  
+}
+A.special:active{
+  
+  text-decoration : none;
+  color : yellow;
+}
