@@ -1,4 +1,7 @@
- 
+body{
+  max-width: 1024px;
+  margin: 0 auto;
+}
 a.special:link{
   
   text-decoration : none;
